@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\bin\Debug\net6.0\AdventOfCode2015.exe
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\bin\Debug\net6.0\AdventOfCode2015.deps.json
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\bin\Debug\net6.0\AdventOfCode2015.runtimeconfig.json
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\bin\Debug\net6.0\AdventOfCode2015.dll
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\bin\Debug\net6.0\AdventOfCode2015.pdb
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.AssemblyInfo.cs
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.dll
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\refint\AdventOfCode2015.dll
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.pdb
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\AdventOfCode2015.genruntimeconfig.cache
+C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\AdventOfCode2015\obj\Debug\net6.0\ref\AdventOfCode2015.dll
