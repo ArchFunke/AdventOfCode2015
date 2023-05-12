@@ -2,6 +2,7 @@
 using System.IO;
 using AdventOfCode2015;
 using System.Collections.Generic;
+using System.Reflection;
 
 namespace AdventOfCode2015
 {
@@ -13,7 +14,7 @@ namespace AdventOfCode2015
             try
             {
                 string input;
-                using (var streamReader = new StreamReader(@"C:\Users\Michael\Documents\Development\AdventOfCode2015\AdventOfCode2015\Input\day1Input.txt")) 
+                using (var streamReader = new StreamReader("../../../Input/day1Input.txt")) 
                 {
                     input = streamReader.ReadToEnd();
                 }
