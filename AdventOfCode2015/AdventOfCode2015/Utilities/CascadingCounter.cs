@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel;
 
-namespace AdventOfCode2015
+namespace AdventOfCode2015.Utilities
 {
     public static class CascadingCounter<T>
     {
